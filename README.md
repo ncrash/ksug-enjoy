@@ -12,4 +12,4 @@ http://www.springcamp.io/2014/
 발표
 
 - SlideShare : http://www.slideshare.net/ncrash/ksug-enjoy
-- Facebook : https://www.facebook.com/groups/springkorea/permalink/536295703148730/
+  * Facebook : https://www.facebook.com/groups/springkorea/permalink/536295703148730/
